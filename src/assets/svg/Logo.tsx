@@ -204,7 +204,7 @@ export function Logo() {
         </defs>
       </svg>
 
-      <span className="max-sm:sr-only">Untitled UI</span>
+      <span>Untitled UI</span>
     </strong>
   )
 }
